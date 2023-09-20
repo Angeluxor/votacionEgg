@@ -1,0 +1,6 @@
+me\votacionegg\lists\Apellidos.class
+me\votacionegg\lists\Nombres.class
+me\votacionegg\entities\Voto.class
+me\votacionegg\entities\Alumno.class
+me\votacionegg\VotacionEgg.class
+me\votacionegg\services\Simulador.class
