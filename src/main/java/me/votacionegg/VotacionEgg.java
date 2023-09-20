@@ -15,6 +15,7 @@ public class VotacionEgg {
     public static void main(String[] args) {     
         
         System.out.println(Simulador.votacion().toString());
+        System.out.println("Se hizo un cambio");
         
     }
 }
